@@ -1,0 +1,67 @@
+
+h1{
+    font-family: sans-serif;
+}
+.navbar{
+    background-color: rgb(198, 196, 196);
+}
+
+.container{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    background-color: gainsboro;
+}
+.table1{
+    background-color: rgb(243, 246, 246);
+    padding: 10px;
+
+}
+.table2{
+    background-color: beige;
+    padding:10px
+    ;
+}
+.table3{
+    background-color: rgb(250, 247, 252);
+    padding: 10px;
+}
+.name{
+    background-color:azure;
+    padding: 20px;
+    border: 20px;
+    margin-top: 10px;
+    background-image:url(./assets/imagine.jfif);
+}
+img{
+    height: 200px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 40%;
+
+} 
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    font-style:italic;
+}
+.header {
+    padding: 15px;
+    border: 10px
+}
+
+.close_end {
+    display: flex;
+    background-color: beige;
+    padding:10px;
+    display:block;
+
+}
+.layoutpg{
+    padding: 20px;
+    margin-left: 5%;
+    border: 10px solid rgb(189, 189, 188);
+
+}
